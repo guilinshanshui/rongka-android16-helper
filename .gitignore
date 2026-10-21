@@ -1,0 +1,11 @@
+_analysis/
+*.tmp
+$null
+# Local reverse-engineering artifacts
+_analysis/
+*.tmp
+$null
+
+# Legacy files intentionally excluded from the repaired helper repository
+自动融卡.exe
+一键安装安卓驱动.exe
